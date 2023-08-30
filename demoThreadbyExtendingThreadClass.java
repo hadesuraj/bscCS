@@ -38,3 +38,16 @@ public class demoThread {
         t2.start();
     }
 }
+/*
+Output:
+Hi running
+Hello running
+Hi running
+Hello running
+Hi running
+Hello running
+Hi running
+Hello running
+Hi running
+Hello running
+*/
