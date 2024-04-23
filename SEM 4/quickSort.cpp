@@ -50,3 +50,12 @@ int main(){
 	cout << endl;
 	return 0;
 }
+/*
+OUTPUT:
+Enter the number of elements in the array: 7
+Enter 7 elements: 4 6 5 2 7 9 1 3
+Given array is 
+4 6 5 2 7 9 1 
+Sorted array is 
+1 2 4 5 6 7 9 
+*/
